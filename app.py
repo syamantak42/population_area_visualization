@@ -33,15 +33,19 @@ def load_points() -> pd.DataFrame:
 
 
 @st.cache_data(ttl=86_400, show_spinner=False)
-def fetch_subdivisions(iso3: str, country: str, region: str) -> pd.DataFrame:
+def fetch_subdivisions(
+    iso3: str,
+    country: str,
+    region: str,
+) -> pd.DataFrame:
     return download_subdivisions(iso3, country, region)
 
 
 points = load_points()
 country_rows = points[points.level == "Country"].drop_duplicates("name").sort_values("name")
 country_lookup = country_rows.set_index("name")[["iso3", "region_group"]].to_dict("index")
-existing_subdivision_countries = set(
-    points.loc[points.level == "Subdivision", "parent_country"].dropna()
+existing_subdivision_iso3 = set(
+    points.loc[points.level == "Subdivision", "iso3"].dropna()
 )
 
 st.title("Population and area explorer")
@@ -74,16 +78,18 @@ country_points = points[
 subdivision_frames = []
 warnings = []
 for country in selected_countries:
-    if country in existing_subdivision_countries:
+    metadata = country_lookup[country]
+    if metadata["iso3"] in existing_subdivision_iso3:
         subdivisions = points[
-            (points.level == "Subdivision") & (points.parent_country == country)
+            (points.level == "Subdivision") & (points.iso3 == metadata["iso3"])
         ].copy()
     else:
-        metadata = country_lookup[country]
         try:
-            with st.spinner(f"Downloading subdivision data for {country}..."):
+            with st.spinner(f"Loading subdivision data for {country}..."):
                 subdivisions = fetch_subdivisions(
-                    metadata["iso3"], country, metadata["region_group"]
+                    metadata["iso3"],
+                    country,
+                    metadata["region_group"],
                 )
         except Exception:
             subdivisions = pd.DataFrame()

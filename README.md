@@ -10,6 +10,9 @@ Interactive log-log scatter plot of country population vs. area, with selected f
 - Country colors and marker shapes encode continent / Asian subregion. Each selected
   country's subdivisions have their own color and marker shape, shown at the same size
   as country markers. Both sets of styles are included in the chart legend.
+- Visible legend entries share one ranked high-contrast marker palette. If the current
+  filters produce `K` legend entries, the chart uses the first `K` color/symbol pairs;
+  hidden or empty groups do not consume styles.
 - Hover shows name, parent country, level, area, population, population density, and population year when supplied.
 - Both axes are logarithmic.
 - Drag a rectangle to zoom; mouse-wheel zoom is enabled; double-click resets.
@@ -36,9 +39,21 @@ streamlit run app.py
 
 The sidebar filters country points by continent and accepts up to seven countries for
 first-level subdivision overlays. Countries already present in `points.csv` use those
-rows. Other selections are downloaded from Wikidata and matched to Natural Earth
-boundaries. If a country's subdivision data is unavailable or cannot be matched, the
-app reports that country and continues plotting all other available selections.
+rows. Other selections use Wikidata population and area data. If Wikidata has a
+population but no area, the app matches that subdivision to Natural Earth for its
+geodesic area. If usable data cannot be found, the app reports that country and
+continues plotting all other available selections.
+
+The on-demand pipeline retries temporary Wikidata failures and accepts common
+administrative suffix differences such as `Dhaka` versus `Dhaka Division`. It uses
+Wikidata population and area values directly. Natural Earth supplies a geodesic area
+only when Wikidata has a real population but no area for that subdivision. Values are
+never inferred from national totals.
+
+Successful on-demand results are stored in `data/raw/subdivisions/<ISO3>.csv` and
+reused on every later app run without another network request. Cache files are checked
+for the expected schema, positive population and area values, and genuine Wikidata
+population sources before use. New cache files are written atomically.
 
 ## Data sources
 

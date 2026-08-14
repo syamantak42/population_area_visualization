@@ -11,30 +11,27 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data" / "processed" / "points.csv"
 OUT = ROOT / "population_area_density_chart.html"
 
-REGION_STYLE = {
-    "Africa": ("#1f77b4", "circle"),
-    "Europe": ("#9467bd", "square"),
-    "North America": ("#2ca02c", "diamond"),
-    "South America": ("#d62728", "cross"),
-    "Oceania": ("#17becf", "triangle-up"),
-    "West Asia": ("#ff7f0e", "triangle-down"),
-    "East Asia": ("#e377c2", "star"),
-    "South Asia": ("#8c564b", "hexagon"),
-    "Southeast Asia": ("#bcbd22", "pentagon"),
-    "Central Asia": ("#7f7f7f", "x"),
-    "Antarctica": ("#9edae5", "hourglass"),
-    "Asia - other": ("#c49c94", "hexagram"),
-    "Other": ("#aec7e8", "circle-open"),
-}
-
-SUBDIVISION_STYLES = [
-    ("#003f5c", "triangle-right"),
-    ("#ffa600", "diamond-open"),
-    ("#58508d", "square-open"),
-    ("#bc5090", "star-diamond"),
-    ("#ff6361", "hexagon-open"),
-    ("#00876c", "triangle-ne"),
-    ("#7a5195", "pentagon-open"),
+MARKER_STYLES = [
+    ("#0072B2", "circle"),
+    ("#E69F00", "diamond"),
+    ("#009E73", "square"),
+    ("#D55E00", "triangle-up"),
+    ("#CC79A7", "star"),
+    ("#56B4E9", "cross"),
+    ("#6A3D9A", "triangle-down"),
+    ("#B2182B", "hexagon"),
+    ("#1B7837", "pentagon"),
+    ("#2166AC", "x"),
+    ("#E08214", "triangle-right"),
+    ("#762A83", "star-diamond"),
+    ("#008080", "hexagram"),
+    ("#C51B7D", "diamond-open"),
+    ("#4D4D4D", "square-open"),
+    ("#A6761D", "triangle-left"),
+    ("#01665E", "hourglass"),
+    ("#8C510A", "triangle-ne"),
+    ("#5E3C99", "pentagon-open"),
+    ("#B35806", "cross-open"),
 ]
 
 ORDER = [
@@ -85,16 +82,29 @@ def build_figure(df: pd.DataFrame) -> go.Figure:
         ))
 
     countries = df[df.level != "Subdivision"]
-    for group in groups:
+    visible_groups = [
+        group for group in groups if (countries.region_group == group).any()
+    ]
+    subdivisions = df[df.level == "Subdivision"]
+    subdivision_parents = sorted(subdivisions.parent_country.dropna().unique())
+    legend_names = visible_groups + [
+        f"Subdivision: {parent}" for parent in subdivision_parents
+    ]
+    legend_styles = {
+        name: MARKER_STYLES[index % len(MARKER_STYLES)]
+        for index, name in enumerate(legend_names)
+    }
+
+    for group in visible_groups:
         d = countries[countries.region_group == group].copy()
-        color, symbol = REGION_STYLE.get(group, ("#444", "circle"))
+        color, symbol = legend_styles[group]
         add_marker_trace(d, group, color, symbol)
 
-    subdivisions = df[df.level == "Subdivision"]
-    for index, parent_country in enumerate(sorted(subdivisions.parent_country.dropna().unique())):
+    for parent_country in subdivision_parents:
         d = subdivisions[subdivisions.parent_country == parent_country].copy()
-        color, symbol = SUBDIVISION_STYLES[index % len(SUBDIVISION_STYLES)]
-        add_marker_trace(d, f"Subdivision: {parent_country}", color, symbol)
+        legend_name = f"Subdivision: {parent_country}"
+        color, symbol = legend_styles[legend_name]
+        add_marker_trace(d, legend_name, color, symbol)
 
     xmin, xmax = df.area_km2.min(), df.area_km2.max()
     ymin, ymax = df.population.min(), df.population.max()

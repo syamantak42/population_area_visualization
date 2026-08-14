@@ -1,0 +1,9 @@
+name,parent_country,level,iso3,region_group,area_km2,population,population_year,area_year,population_source,area_source,density_per_km2
+Barisal Division,Bangladesh,Subdivision,BGD,South Asia,13225.2,8325666.0,2011,,Wikidata P1082,Wikidata P2046,629.5304418836765
+Chattogram Division,Bangladesh,Subdivision,BGD,South Asia,33771.18,29145000.0,2011,,Wikidata P1082,Wikidata P2046,863.0139663464528
+Dhaka Division,Bangladesh,Subdivision,BGD,South Asia,20593.74,49729000.0,2011,,Wikidata P1082,Wikidata P2046,2414.7629328135636
+Khulna Division,Bangladesh,Subdivision,BGD,South Asia,22284.22,15687759.0,2011,,Wikidata P1082,Wikidata P2046,703.9851069501199
+Mymensingh Division,Bangladesh,Subdivision,BGD,South Asia,10584.06,11370000.0,2011,,Wikidata P1082,Wikidata P2046,1074.2569486567536
+Rajshahi Division,Bangladesh,Subdivision,BGD,South Asia,18174.4,18485858.0,2011,,Wikidata P1082,Wikidata P2046,1017.1371819702438
+Rangpur Division,Bangladesh,Subdivision,BGD,South Asia,16184.99,15787758.0,2011,,Wikidata P1082,Wikidata P2046,975.4567658058485
+Sylhet Division,Bangladesh,Subdivision,BGD,South Asia,12298.4,9807000.0,2011,,Wikidata P1082,Wikidata P2046,797.4208027060431

@@ -110,6 +110,21 @@ def normalize(text: object) -> str:
     return re.sub(r"\s+", " ", s)
 
 
+def normalize_admin_name(text: object) -> str:
+    value = normalize(text)
+    suffixes = (
+        "autonomous community", "autonomous province", "autonomous region",
+        "capital territory", "federal district", "union territory",
+        "administrative region", "division", "province", "state", "region",
+        "governorate", "department", "district", "territory", "prefecture",
+        "oblast", "republic", "county", "parish",
+    )
+    for suffix in suffixes:
+        if value.endswith(" " + suffix):
+            return value[: -(len(suffix) + 1)].strip()
+    return value
+
+
 def region_group(row: pd.Series) -> str:
     region = str(row.get("region", ""))
     sub = str(row.get("sub-region", ""))
@@ -241,10 +256,15 @@ def match_population(ne_name: str, parent: str, pop_df: pd.DataFrame) -> pd.Seri
     exact = d[d["norm"] == key]
     if len(exact) == 1:
         return exact.iloc[0]
-    choices = d["norm"].tolist()
-    hit = process.extractOne(key, choices, scorer=fuzz.token_sort_ratio)
+    admin_key = normalize_admin_name(ne_name)
+    d["admin_norm"] = d["pop_name"].map(normalize_admin_name)
+    admin_exact = d[d["admin_norm"] == admin_key]
+    if len(admin_exact) == 1:
+        return admin_exact.iloc[0]
+    choices = d["admin_norm"].tolist()
+    hit = process.extractOne(admin_key, choices, scorer=fuzz.token_sort_ratio)
     if hit and hit[1] >= 88:
-        return d[d["norm"] == hit[0]].iloc[0]
+        return d[d["admin_norm"] == hit[0]].iloc[0]
     return None
 
 

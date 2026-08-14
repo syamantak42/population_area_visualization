@@ -6,6 +6,8 @@ import geopandas as gpd
 import pandas as pd
 import requests
 from pyproj import Geod
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 from download_data import (
     NE_ADMIN1_URL,
@@ -24,18 +26,66 @@ class SubdivisionDataError(RuntimeError):
     pass
 
 
-def _wikidata_population(iso3: str) -> pd.DataFrame:
+REQUIRED_CACHE_COLUMNS = {
+    "name", "parent_country", "level", "iso3", "region_group", "area_km2",
+    "population", "population_year", "area_year", "population_source",
+    "area_source",
+}
+
+
+def _load_cached_subdivisions(iso3: str) -> pd.DataFrame | None:
+    path = CACHE / f"{iso3}.csv"
+    if not path.exists():
+        return None
+    try:
+        cached = pd.read_csv(path)
+    except (OSError, ValueError, pd.errors.ParserError):
+        return None
+    if not REQUIRED_CACHE_COLUMNS.issubset(cached.columns) or cached.empty:
+        return None
+    if not cached.iso3.astype(str).eq(iso3).all():
+        return None
+    if not cached.population_source.astype(str).eq("Wikidata P1082").all():
+        return None
+    cached["population"] = pd.to_numeric(cached.population, errors="coerce")
+    cached["area_km2"] = pd.to_numeric(cached.area_km2, errors="coerce")
+    if cached.population.isna().any() or cached.area_km2.isna().any():
+        return None
+    if (cached.population <= 0).any() or (cached.area_km2 <= 0).any():
+        return None
+    cached["density_per_km2"] = cached.population / cached.area_km2
+    return cached
+
+
+def _wikidata_subdivisions(iso3: str) -> pd.DataFrame:
     query = f"""
-    SELECT ?subdivision ?subdivisionLabel ?population ?date WHERE {{
-      ?country wdt:P298 \"{iso3}\";
-               wdt:P150 ?subdivision.
+    SELECT ?subdivision ?subdivisionLabel ?population ?date ?area WHERE {{
+      ?country wdt:P298 \"{iso3}\".
+      {{ ?country wdt:P150 ?subdivision. }}
+      UNION {{
+        ?subdivision wdt:P131 ?country;
+                     wdt:P31/wdt:P279* wd:Q10864048.
+      }}
+      UNION {{
+        ?subdivision wdt:P17 ?country;
+                     wdt:P31/wdt:P279* wd:Q10864048.
+      }}
       ?subdivision p:P1082 ?populationStatement.
       ?populationStatement ps:P1082 ?population.
       OPTIONAL {{ ?populationStatement pq:P585 ?date. }}
+      OPTIONAL {{ ?subdivision wdt:P2046 ?area. }}
       SERVICE wikibase:label {{ bd:serviceParam wikibase:language \"en\". }}
     }}
     """
-    response = requests.get(
+    retry = Retry(
+        total=4,
+        backoff_factor=1,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=("GET",),
+    )
+    session = requests.Session()
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    response = session.get(
         WIKIDATA_SPARQL_URL,
         params={"query": query, "format": "json"},
         headers={"User-Agent": "population-area-visualization/2.0"},
@@ -49,12 +99,17 @@ def _wikidata_population(iso3: str) -> pd.DataFrame:
             "population": pd.to_numeric(row["population"]["value"], errors="coerce"),
             "population_year": row.get("date", {}).get("value", "")[:4] or None,
             "date": row.get("date", {}).get("value", ""),
+            "area_km2": pd.to_numeric(
+                row.get("area", {}).get("value"), errors="coerce"
+            ),
         }
         for row in bindings
         if "subdivisionLabel" in row and "population" in row
     ]
     if not rows:
-        raise SubdivisionDataError("Wikidata returned no subdivision populations")
+        return pd.DataFrame(columns=[
+            "pop_name", "population", "population_year", "area_km2"
+        ])
 
     populations = pd.DataFrame(rows).dropna(subset=["population"])
     populations = populations[populations.population > 0].copy()
@@ -85,39 +140,62 @@ def download_subdivisions(
     parent_country: str,
     region_group: str,
 ) -> pd.DataFrame:
-    populations = _wikidata_population(iso3)
-    boundaries = _country_boundaries(iso3)
-    name_column = "name" if "name" in boundaries.columns else "name_en"
+    cached = _load_cached_subdivisions(iso3)
+    if cached is not None:
+        return cached
 
-    populations["parent_country"] = parent_country
+    wikidata = _wikidata_subdivisions(iso3)
+    if wikidata.empty:
+        raise SubdivisionDataError("Wikidata returned no subdivision populations")
+
+    boundaries = None
+    boundary_areas = None
     geod = Geod(ellps="WGS84")
     rows = []
-    for _, boundary in boundaries.iterrows():
-        name = str(boundary[name_column])
-        population = match_population(name, parent_country, populations)
-        if population is None:
-            continue
-        area = geodesic_area_km2(boundary.geometry, geod)
-        if not area > 0:
-            continue
+    for _, subdivision in wikidata.iterrows():
+        area = subdivision.area_km2
+        area_source = "Wikidata P2046"
+        if pd.isna(area) or not area > 0:
+            if boundaries is None:
+                boundaries = _country_boundaries(iso3)
+                name_column = "name" if "name" in boundaries.columns else "name_en"
+                boundary_areas = pd.DataFrame({
+                    "pop_name": boundaries[name_column].astype(str),
+                    "parent_country": parent_country,
+                    "area_km2": [
+                        geodesic_area_km2(geometry, geod)
+                        for geometry in boundaries.geometry
+                    ],
+                })
+            boundary = match_population(
+                subdivision.pop_name, parent_country, boundary_areas
+            )
+            if boundary is None or not boundary.area_km2 > 0:
+                continue
+            area = float(boundary.area_km2)
+            area_source = "Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84"
+
         rows.append({
-            "name": name,
+            "name": subdivision.pop_name,
             "parent_country": parent_country,
             "level": "Subdivision",
             "iso3": iso3,
             "region_group": region_group,
-            "area_km2": area,
-            "population": float(population.population),
-            "population_year": population.population_year,
+            "area_km2": float(area),
+            "population": float(subdivision.population),
+            "population_year": subdivision.population_year,
             "area_year": None,
             "population_source": "Wikidata P1082",
-            "area_source": "Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84",
+            "area_source": area_source,
         })
 
     if not rows:
-        raise SubdivisionDataError("subdivision names could not be matched across data sources")
+        raise SubdivisionDataError("No subdivisions had both population and area data")
 
     result = pd.DataFrame(rows)
     result["density_per_km2"] = result.population / result.area_km2
-    result.to_csv(CACHE / f"{iso3}.csv", index=False)
+    cache_path = CACHE / f"{iso3}.csv"
+    temporary_path = cache_path.with_suffix(".csv.tmp")
+    result.to_csv(temporary_path, index=False)
+    temporary_path.replace(cache_path)
     return result
