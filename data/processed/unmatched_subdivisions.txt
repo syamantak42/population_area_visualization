@@ -1,0 +1,129 @@
+India	Andaman and Nicobar
+China	Xizang
+China	Paracel Islands
+Russia	Gorno-Altay
+Russia	Pskov
+Russia	Krasnodar
+Russia	Karachay-Cherkess
+Russia	Kabardin-Balkar
+Russia	North Ossetia
+Russia	Ingush
+Russia	Chechnya
+Russia	Dagestan
+Russia	Murmansk
+Russia	Karelia
+Russia	Leningrad
+Russia	Kaliningrad
+Russia	Smolensk
+Russia	Bryansk
+Russia	Kursk
+Russia	Belgorod
+Russia	Voronezh
+Russia	Rostov
+Russia	Buryat
+Russia	Tuva
+Russia	Chita
+Russia	Amur
+Russia	Yevrey
+Russia	Khabarovsk
+Russia	Primor'ye
+Russia	Tyumen'
+Russia	Kurgan
+Russia	Omsk
+Russia	Novosibirsk
+Russia	Chelyabinsk
+Russia	Altay
+Russia	Orenburg
+Russia	Saratov
+Russia	Astrakhan'
+Russia	Volgograd
+Russia	Crimea
+Russia	Maga Buryatdan
+Russia	Sakhalin
+Russia	Sevastopol
+Russia	Chukchi Autonomous Okrug
+Russia	Yamal-Nenets
+Russia	Nenets
+Russia	Sakha (Yakutia)
+Russia	City of St. Petersburg
+Russia	Arkhangel'sk
+Russia	Krasnoyarsk
+Russia	Kalmyk
+Russia	Kamchatka
+Russia	nan
+Russia	Bashkortostan
+Russia	Sverdlovsk
+Russia	Khanty-Mansiy
+Russia	Lipetsk
+Russia	Tambov
+Russia	Tomsk
+Russia	Tatarstan
+Russia	Ul'yanovsk
+Russia	Penza
+Russia	Kemerovo
+Russia	Orel
+Russia	Irkutsk
+Russia	Khakass
+Russia	Mordovia
+Russia	Kaluga
+Russia	Kostroma
+Russia	Yaroslavl'
+Russia	Vladimir
+Russia	Ryazan'
+Russia	Ivanovo
+Russia	Nizhegorod
+Russia	Tula
+Russia	Chuvash
+Russia	Vologda
+Russia	Novgorod
+Russia	Tver'
+Russia	Moskovskaya
+Russia	Moskva
+Russia	Mariy-El
+Russia	Kirov
+Russia	Udmurt
+Russia	Komi
+Russia	Perm'
+Russia	Samara
+Russia	Stavropol'
+Russia	Adygey
+Australia	Jervis Bay Territory
+Australia	Macquarie Island
+Australia	Lord Howe Island
+Pakistan	Northern Areas
+Pakistan	K.P.
+Pakistan	F.A.T.A.
+Pakistan	F.C.T.
+Indonesia	Kalimantan Timur
+Indonesia	Nusa Tenggara Timur
+Indonesia	Kalimantan Barat
+Indonesia	Papua
+Indonesia	Jawa Timur
+Indonesia	Maluku
+Indonesia	Nusa Tenggara Barat
+Indonesia	Sulawesi Selatan
+Indonesia	Jawa Tengah
+Indonesia	Jawa Barat
+Indonesia	Jakarta Raya
+Indonesia	Banten
+Indonesia	Yogyakarta
+Indonesia	Sulawesi Tenggara
+Indonesia	Papua Barat
+Indonesia	Sulawesi Tengah
+Indonesia	Maluku Utara
+Indonesia	Kepulauan Riau
+Indonesia	Riau
+Indonesia	Gorontalo
+Indonesia	Sulawesi Utara
+Indonesia	Sulawesi Barat
+Indonesia	Jambi
+Indonesia	Sumatera Selatan
+Indonesia	Lampung
+Indonesia	Bengkulu
+Indonesia	Sumatera Barat
+Indonesia	Sumatera Utara
+Indonesia	Aceh
+Indonesia	Kalimantan Tengah
+Indonesia	Kalimantan Selatan
+Indonesia	Bali
+Indonesia	Bangka-Belitung

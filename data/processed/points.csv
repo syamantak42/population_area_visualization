@@ -1,0 +1,384 @@
+name,parent_country,level,iso3,region_group,area_km2,population,population_year,area_year,population_source,area_source,density_per_km2
+Algeria,Algeria,Country,DZA,Africa,2381740.0,47435312.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,19.916242746899325
+Angola,Angola,Country,AGO,Africa,1246700.0,39040039.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,31.314702013315152
+Benin,Benin,Country,BEN,Africa,114760.0,14814460.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,129.09079818752178
+Botswana,Botswana,Country,BWA,Africa,581730.0,2562122.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,4.404314716449212
+Burkina Faso,Burkina Faso,Country,BFA,Africa,274200.0,24074580.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,87.79934354485776
+Burundi,Burundi,Country,BDI,Africa,27830.0,14390003.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,517.0680201221703
+Cabo Verde,Cabo Verde,Country,CPV,Africa,4030.0,527326.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,130.8501240694789
+Cameroon,Cameroon,Country,CMR,Africa,475440.0,29879337.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,62.845652448258456
+Central African Republic,Central African Republic,Country,CAF,Africa,622980.0,5513282.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,8.849853927894957
+Chad,Chad,Country,TCD,Africa,1284000.0,21003705.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,16.35802570093458
+Comoros,Comoros,Country,COM,Africa,1861.0,882847.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,474.3938742611499
+Congo,Congo,Country,COG,Africa,342000.0,6484437.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,18.96034210526316
+"Congo, Democratic Republic of the","Congo, Democratic Republic of the",Country,COD,Africa,2344860.0,112832473.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,48.11906595702942
+Côte d'Ivoire,Côte d'Ivoire,Country,CIV,Africa,322460.0,32711547.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,101.44373565713578
+Djibouti,Djibouti,Country,DJI,Africa,23200.0,1184076.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,51.03775862068966
+Egypt,Egypt,Country,EGY,Africa,1001450.0,118365995.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,118.19461281142344
+Equatorial Guinea,Equatorial Guinea,Country,GNQ,Africa,28050.0,1938431.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,69.10627450980392
+Eritrea,Eritrea,Country,ERI,Africa,121765.8,3607003.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,29.622463778827882
+Eswatini,Eswatini,Country,SWZ,Africa,17360.0,1256174.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,72.3602534562212
+Ethiopia,Ethiopia,Country,ETH,Africa,1136239.7,135472051.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,119.22840840713452
+Gabon,Gabon,Country,GAB,Africa,267670.0,2593130.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,9.687787200657526
+Gambia,Gambia,Country,GMB,Africa,11300.0,2822093.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,249.74274336283185
+Ghana,Ghana,Country,GHA,Africa,238539.0,35064272.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,146.99597130867488
+Guinea,Guinea,Country,GIN,Africa,245860.0,15099727.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,61.415956235255834
+Guinea-Bissau,Guinea-Bissau,Country,GNB,Africa,36130.0,2249515.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,62.261693883199555
+Kenya,Kenya,Country,KEN,Africa,591969.0,57532493.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,97.18835445775032
+Lesotho,Lesotho,Country,LSO,Africa,30360.0,2363325.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,77.84337944664031
+Liberia,Liberia,Country,LBR,Africa,111370.0,5731206.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,51.46094998653138
+Libya,Libya,Country,LBY,Africa,1759540.0,7458555.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,4.238923241301704
+Madagascar,Madagascar,Country,MDG,Africa,587295.0,32740678.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,55.748266203526335
+Malawi,Malawi,Country,MWI,Africa,118480.0,22216120.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,187.50945307224848
+Mali,Mali,Country,MLI,Africa,1240190.0,25198821.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,20.318516517630364
+Mauritania,Mauritania,Country,MRT,Africa,1030700.0,5315065.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,5.156752692345008
+Mauritius,Mauritius,Country,MUS,Africa,2010.0,1243741.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,618.7766169154229
+Morocco,Morocco,Country,MAR,Africa,446550.0,38430770.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,86.06151606762961
+Mozambique,Mozambique,Country,MOZ,Africa,799380.0,35631653.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,44.57411118616928
+Namibia,Namibia,Country,NAM,Africa,824290.0,3092816.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,3.7520969561683386
+Niger,Niger,Country,NER,Africa,1267000.0,27917831.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,22.034594317284924
+Nigeria,Nigeria,Country,NGA,Africa,923770.0,237527782.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,257.12870303214004
+Rwanda,Rwanda,Country,RWA,Africa,26338.0,14569341.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,553.1680841369883
+Sao Tome and Principe,Sao Tome and Principe,Country,STP,Africa,960.0,240254.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,250.26458333333332
+Senegal,Senegal,Country,SEN,Africa,196710.0,18931966.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,96.24302780743226
+Seychelles,Seychelles,Country,SYC,Africa,460.0,122730.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,266.80434782608694
+Sierra Leone,Sierra Leone,Country,SLE,Africa,72300.0,8819794.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,121.98885200553251
+Somalia,Somalia,Country,SOM,Africa,637660.0,19654739.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,30.823227111626885
+South Africa,South Africa,Country,ZAF,Africa,1219090.0,64747319.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,53.111188673518775
+South Sudan,South Sudan,Country,SSD,Africa,646883.0,12188788.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,18.842337795242724
+Sudan,Sudan,Country,SDN,Africa,1878000.0,51662147.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,27.50913045793397
+"Tanzania, United Republic of","Tanzania, United Republic of",Country,TZA,Africa,947300.0,70545865.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,74.4704581441993
+Togo,Togo,Country,TGO,Africa,56790.0,8591626.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,151.28765627751363
+Tunisia,Tunisia,Country,TUN,Africa,163610.0,12348573.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,75.47566163437443
+Uganda,Uganda,Country,UGA,Africa,241550.0,51384894.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,212.7298447526392
+Zambia,Zambia,Country,ZMB,Africa,752610.0,21913874.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,29.11717091189328
+Zimbabwe,Zimbabwe,Country,ZWE,Africa,390760.0,16950795.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,43.37904340260006
+Kazakhstan,Kazakhstan,Country,KAZ,Central Asia,2724902.0,20843754.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,7.649359132915606
+Kyrgyzstan,Kyrgyzstan,Country,KGZ,Central Asia,199950.0,7343064.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,36.72450112528132
+Tajikistan,Tajikistan,Country,TJK,Central Asia,141379.0,10786734.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,76.2965786998069
+Turkmenistan,Turkmenistan,Country,TKM,Central Asia,491209.0,7618847.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,15.510397814372293
+Uzbekistan,Uzbekistan,Country,UZB,Central Asia,448920.0,37053428.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,82.53904481867593
+China,China,Country,CHN,East Asia,9562910.0,1406585000.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,147.08754971028694
+Hong Kong,Hong Kong,Country,HKG,East Asia,1110.0,7498900.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,6755.7657657657655
+Japan,Japan,Country,JPN,East Asia,377969.27,123366734.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,326.3935557512387
+"Korea, Democratic People's Republic of","Korea, Democratic People's Republic of",Country,PRK,East Asia,120540.0,26571036.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,220.433349925336
+"Korea, Republic of","Korea, Republic of",Country,KOR,East Asia,100450.0,51684564.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,514.5302538576407
+Macao,Macao,Country,MAC,East Asia,33.0,685900.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,20784.848484848484
+Mongolia,Mongolia,Country,MNG,East Asia,1564115.75,3568978.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,2.281786370350148
+Albania,Albania,Country,ALB,Europe,28750.0,2349580.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,81.72452173913044
+Andorra,Andorra,Country,AND,Europe,470.0,82904.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,176.39148936170213
+Austria,Austria,Country,AUT,Europe,83879.0,9208163.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,109.7791223071329
+Belarus,Belarus,Country,BLR,Europe,207629.0,9085991.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,43.76070298465051
+Belgium,Belgium,Country,BEL,Europe,30689.0,11941781.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,389.12251946951676
+Bosnia and Herzegovina,Bosnia and Herzegovina,Country,BIH,Europe,51210.0,3140095.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,61.31800429603593
+Bulgaria,Bulgaria,Country,BGR,Europe,110996.758,6433302.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,57.959368506961255
+Croatia,Croatia,Country,HRV,Europe,88070.0,3876200.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,44.012717156807085
+Czechia,Czechia,Country,CZE,Europe,78871.43,10886878.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,138.0332269872627
+Denmark,Denmark,Country,DNK,Europe,42920.0,6009169.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,140.00859739049395
+Estonia,Estonia,Country,EST,Europe,45340.0,1366475.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,30.138398764887516
+Faroe Islands,Faroe Islands,Country,FRO,Europe,12960.0,54900.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,4.236111111111111
+Finland,Finland,Country,FIN,Europe,338480.0,5646436.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,16.681741904987
+France,France,Country,FRA,Europe,606410.0,68720337.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,113.32322521066605
+Germany,Germany,Country,DEU,Europe,357680.0,83491249.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,233.42442686199956
+Gibraltar,Gibraltar,Country,GIB,Europe,10.0,40126.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,4012.6
+Greece,Greece,Country,GRC,Europe,131960.0,10413962.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,78.91756592906941
+Hungary,Hungary,Country,HUN,Europe,93030.0,9514251.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,102.27078361818768
+Iceland,Iceland,Country,ISL,Europe,103000.0,392404.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,3.809747572815534
+Ireland,Ireland,Country,IRL,Europe,70280.0,5484367.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,78.03595617529881
+Isle of Man,Isle of Man,Country,IMN,Europe,570.0,84118.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,147.57543859649124
+Italy,Italy,Country,ITA,Europe,302070.0,58915656.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,195.03974575429535
+Latvia,Latvia,Country,LVA,Europe,64590.0,1847785.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,28.607911441399597
+Liechtenstein,Liechtenstein,Country,LIE,Europe,160.0,41024.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,256.4
+Lithuania,Lithuania,Country,LTU,Europe,65290.0,2888774.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,44.245274927247664
+Luxembourg,Luxembourg,Country,LUX,Europe,2590.0,686970.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,265.2393822393822
+Malta,Malta,Country,MLT,Europe,320.0,579704.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,1811.575
+"Moldova, Republic of","Moldova, Republic of",Country,MDA,Europe,33850.0,2360527.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,69.7349187592319
+Monaco,Monaco,Country,MCO,Europe,74.9,38341.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,511.8958611481976
+Montenegro,Montenegro,Country,MNE,Europe,13888.0,623129.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,44.86815956221198
+"Netherlands, Kingdom of the","Netherlands, Kingdom of the",Country,NLD,Europe,41540.0,18087633.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,435.4268897448243
+North Macedonia,North Macedonia,Country,MKD,Europe,25710.0,1820909.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,70.82493193309996
+Norway,Norway,Country,NOR,Europe,624500.0,5610870.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,8.984579663730985
+Poland,Poland,Country,POL,Europe,313930.0,36435861.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,116.06364794699455
+Portugal,Portugal,Country,PRT,Europe,92230.0,10804871.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,117.15137157107232
+Romania,Romania,Country,ROU,Europe,238400.0,19020271.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,79.78301593959732
+Russian Federation,Russian Federation,Country,RUS,Europe,17125190.0,143513328.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,8.380247343241155
+San Marino,San Marino,Country,SMR,Europe,60.0,34109.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,568.4833333333333
+Serbia,Serbia,Country,SRB,Europe,84990.0,6549143.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,77.0578068008001
+Slovakia,Slovakia,Country,SVK,Europe,49030.0,5413813.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,110.41837650418111
+Slovenia,Slovenia,Country,SVN,Europe,20480.0,2130986.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,104.05205078125
+Spain,Spain,Country,ESP,Europe,505975.98,49355143.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,97.54443876960326
+Sweden,Sweden,Country,SWE,Europe,528660.0,10596620.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,20.044300684750123
+Switzerland,Switzerland,Country,CHE,Europe,41290.7,9092436.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,220.20542155981857
+Ukraine,Ukraine,Country,UKR,Europe,603550.0,38980376.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,64.58516444370807
+United Kingdom of Great Britain and Northern Ireland,United Kingdom of Great Britain and Northern Ireland,Country,GBR,Europe,243610.0,69487000.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,285.2387012027421
+Antigua and Barbuda,Antigua and Barbuda,Country,ATG,North America,440.0,94209.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,214.11136363636365
+Aruba,Aruba,Country,ABW,North America,180.0,108785.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,604.3611111111111
+Bahamas,Bahamas,Country,BHS,North America,13880.0,403033.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,29.036959654178673
+Barbados,Barbados,Country,BRB,North America,430.0,282623.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,657.2627906976744
+Belize,Belize,Country,BLZ,North America,22966.0,422924.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,18.41522250283027
+Bermuda,Bermuda,Country,BMU,North America,4290.0,64555.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,15.047785547785548
+Canada,Canada,Country,CAN,North America,15634410.0,41651653.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,2.6641013635947886
+Cayman Islands,Cayman Islands,Country,CYM,North America,264.0,75844.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,287.2878787878788
+Costa Rica,Costa Rica,Country,CRI,North America,51100.0,5152950.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,100.84050880626224
+Cuba,Cuba,Country,CUB,North America,109880.0,10937203.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,99.53770476883874
+Curaçao,Curaçao,Country,CUW,North America,444.0,156263.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,351.9436936936937
+Dominica,Dominica,Country,DMA,North America,750.0,65871.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,87.828
+Dominican Republic,Dominican Republic,Country,DOM,North America,146839.46,11520487.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,78.45634272967226
+El Salvador,El Salvador,Country,SLV,North America,21040.0,6365503.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,302.54291825095055
+Greenland,Greenland,Country,GRL,North America,410450.0,56831.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,0.1384602265805823
+Grenada,Grenada,Country,GRD,North America,340.0,117303.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,345.00882352941176
+Guatemala,Guatemala,Country,GTM,North America,108890.0,18687881.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,171.62164569749288
+Haiti,Haiti,Country,HTI,North America,27750.0,11906095.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,429.04846846846846
+Honduras,Honduras,Country,HND,North America,112490.0,11005850.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,97.83847453106942
+Jamaica,Jamaica,Country,JAM,North America,10990.0,2837077.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,258.15077343039127
+Mexico,Mexico,Country,MEX,North America,1957193.9,131946900.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,67.41636584908629
+Nicaragua,Nicaragua,Country,NIC,North America,130370.0,7007502.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,53.750878269540536
+Panama,Panama,Country,PAN,North America,75320.0,4571189.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,60.690241635687734
+Puerto Rico,Puerto Rico,Country,PRI,North America,8870.0,3184835.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,359.05693348365276
+Saint Kitts and Nevis,Saint Kitts and Nevis,Country,KNA,North America,260.0,46922.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,180.46923076923076
+Saint Lucia,Saint Lucia,Country,LCA,North America,620.0,180149.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,290.56290322580645
+Saint Martin (French part),Saint Martin (French part),Country,MAF,North America,50.0,24941.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,498.82
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Country,VCT,North America,390.0,99924.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,256.2153846153846
+Sint Maarten (Dutch part),Sint Maarten (Dutch part),Country,SXM,North America,34.0,43923.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,1291.8529411764705
+Trinidad and Tobago,Trinidad and Tobago,Country,TTO,North America,5130.0,1367764.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,266.6206627680312
+Turks and Caicos Islands,Turks and Caicos Islands,Country,TCA,North America,950.0,46855.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,49.32105263157895
+United States of America,United States of America,Country,USA,North America,9831510.0,341784857.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,34.764228180615184
+Virgin Islands (British),Virgin Islands (British),Country,VGB,North America,150.0,39732.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,264.88
+Virgin Islands (U.S.),Virgin Islands (U.S.),Country,VIR,North America,350.0,103792.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,296.54857142857145
+American Samoa,American Samoa,Country,ASM,Oceania,200.0,46029.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,230.145
+Australia,Australia,Country,AUS,Oceania,7741220.0,27614411.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,3.567191088743118
+Fiji,Fiji,Country,FJI,Oceania,18270.0,933154.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,51.07575259989053
+French Polynesia,French Polynesia,Country,PYF,Oceania,3471.0,282465.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,81.37856525496974
+Guam,Guam,Country,GUM,Oceania,540.0,168999.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,312.9611111111111
+Kiribati,Kiribati,Country,KIR,Oceania,810.0,136488.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,168.5037037037037
+Marshall Islands,Marshall Islands,Country,MHL,Oceania,180.0,36282.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,201.56666666666666
+"Micronesia, Federated States of","Micronesia, Federated States of",Country,FSM,Oceania,700.0,113683.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,162.40428571428572
+Nauru,Nauru,Country,NRU,Oceania,20.0,12025.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,601.25
+New Caledonia,New Caledonia,Country,NCL,Oceania,18580.0,295333.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,15.895209903121636
+New Zealand,New Zealand,Country,NZL,Oceania,267710.0,5324700.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,19.88980613350267
+Northern Mariana Islands,Northern Mariana Islands,Country,MNP,Oceania,460.0,43541.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,94.65434782608696
+Palau,Palau,Country,PLW,Oceania,460.0,17663.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,38.39782608695652
+Papua New Guinea,Papua New Guinea,Country,PNG,Oceania,462840.0,10762817.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,23.253860945467117
+Samoa,Samoa,Country,WSM,Oceania,2840.0,219306.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,77.22042253521127
+Solomon Islands,Solomon Islands,Country,SLB,Oceania,28900.0,838645.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,29.01885813148789
+Tonga,Tonga,Country,TON,Oceania,750.0,103742.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,138.32266666666666
+Tuvalu,Tuvalu,Country,TUV,Oceania,30.0,9492.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,316.4
+Vanuatu,Vanuatu,Country,VUT,Oceania,12190.0,335169.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,27.49540607054963
+Argentina,Argentina,Country,ARG,South America,2780400.0,45851378.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,16.490928643360668
+"Bolivia, Plurinational State of","Bolivia, Plurinational State of",Country,BOL,South America,1098580.0,12581843.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,11.452823645069088
+Brazil,Brazil,Country,BRA,South America,8510420.0,212812405.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,25.006098993939194
+Chile,Chile,Country,CHL,South America,757244.88,19859921.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,26.22655038618419
+Colombia,Colombia,Country,COL,South America,1140619.1,53425635.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,46.83915515705462
+Ecuador,Ecuador,Country,ECU,South America,256370.0,18289896.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,71.34179506182471
+Guyana,Guyana,Country,GUY,South America,214970.0,835986.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,3.8888496069218963
+Paraguay,Paraguay,Country,PRY,South America,406752.0,7013078.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,17.241655849264415
+Peru,Peru,Country,PER,South America,1285215.6,34576665.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,26.90339659742692
+Suriname,Suriname,Country,SUR,South America,163820.0,639850.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,3.905811256256867
+Uruguay,Uruguay,Country,URY,South America,176220.0,3384688.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,19.207172852116674
+"Venezuela, Bolivarian Republic of","Venezuela, Bolivarian Republic of",Country,VEN,South America,912050.0,28516896.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,31.26681212652815
+Afghanistan,Afghanistan,Country,AFG,South Asia,652870.0,43844111.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,67.15595907301606
+Bangladesh,Bangladesh,Country,BGD,South Asia,147570.0,175686899.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,1190.5326218066002
+Bhutan,Bhutan,Country,BTN,South Asia,38390.0,796682.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,20.75233133628549
+India,India,Country,IND,South Asia,3287260.0,1463865525.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,445.31479864689743
+"Iran, Islamic Republic of","Iran, Islamic Republic of",Country,IRN,South Asia,1745150.0,92417681.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,52.95686961006217
+Maldives,Maldives,Country,MDV,South Asia,300.0,529676.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,1765.5866666666666
+Nepal,Nepal,Country,NPL,South Asia,147180.0,29618118.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,201.23738279657562
+Pakistan,Pakistan,Country,PAK,South Asia,796100.0,255219554.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,320.5873056148725
+Sri Lanka,Sri Lanka,Country,LKA,South Asia,65610.0,21756000.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,331.5957933241884
+Brunei Darussalam,Brunei Darussalam,Country,BRN,Southeast Asia,5770.0,466330.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,80.81975736568458
+Cambodia,Cambodia,Country,KHM,Southeast Asia,181040.0,17847982.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,98.58584843128591
+Indonesia,Indonesia,Country,IDN,Southeast Asia,1916906.77,285721236.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,149.0532771189493
+Lao People's Democratic Republic,Lao People's Democratic Republic,Country,LAO,Southeast Asia,236800.0,7873046.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,33.247660472972974
+Malaysia,Malaysia,Country,MYS,Southeast Asia,330411.0,35977838.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,108.888136290862
+Myanmar,Myanmar,Country,MMR,Southeast Asia,676590.0,54850648.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,81.06925612261487
+Philippines,Philippines,Country,PHL,Southeast Asia,300000.0,116786962.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,389.28987333333333
+Singapore,Singapore,Country,SGP,Southeast Asia,728.0,6111175.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,8394.471153846154
+Thailand,Thailand,Country,THA,Southeast Asia,513115.021,71619863.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,139.5785741380586
+Timor-Leste,Timor-Leste,Country,TLS,Southeast Asia,14870.0,1418517.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,95.39455279085406
+Viet Nam,Viet Nam,Country,VNM,Southeast Asia,331338.31,101598527.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,306.6307877287115
+Armenia,Armenia,Country,ARM,West Asia,29740.0,3086700.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,103.78950907868192
+Azerbaijan,Azerbaijan,Country,AZE,West Asia,86600.0,10246996.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,118.32558891454966
+Bahrain,Bahrain,Country,BHR,West Asia,800.0,1600366.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,2000.4575
+Cyprus,Cyprus,Country,CYP,West Asia,9250.0,1370754.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,148.18962162162163
+Georgia,Georgia,Country,GEO,West Asia,69700.0,3935766.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,56.46723098995696
+Iraq,Iraq,Country,IRQ,West Asia,435050.0,47020774.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,108.08131019423055
+Israel,Israel,Country,ISR,West Asia,22070.0,10122800.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,458.66787494336205
+Jordan,Jordan,Country,JOR,West Asia,89318.0,11520684.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,128.98501981683424
+Kuwait,Kuwait,Country,KWT,West Asia,17820.0,4865298.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,273.02457912457913
+Lebanon,Lebanon,Country,LBN,West Asia,10450.0,5849421.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,559.7532057416267
+Oman,Oman,Country,OMN,West Asia,309500.0,5494691.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,17.753444264943457
+"Palestine, State of","Palestine, State of",Country,PSE,West Asia,6025.0,5413596.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,898.5221576763486
+Qatar,Qatar,Country,QAT,West Asia,11490.0,2972215.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,258.67841601392513
+Saudi Arabia,Saudi Arabia,Country,SAU,West Asia,2149690.0,36973555.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,17.199482250929204
+Syrian Arab Republic,Syrian Arab Republic,Country,SYR,West Asia,185180.0,25620427.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,138.35417971703208
+Türkiye,Türkiye,Country,TUR,West Asia,785350.0,85878556.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,109.35067931495512
+United Arab Emirates,United Arab Emirates,Country,ARE,West Asia,98647.9,11513149.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,116.70951941196924
+Yemen,Yemen,Country,YEM,West Asia,527970.0,41773878.0,2025.0,2023.0,World Bank SP.POP.TOTL,World Bank AG.SRF.TOTL.K2,79.12168873231434
+Anhui,China,Subdivision,CHN,East Asia,140193.77221276434,61027171.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,435.30586299784017
+Beijing,China,Subdivision,CHN,East Asia,16251.746747411098,21893095.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1347.1225795151877
+Chongqing,China,Subdivision,CHN,East Asia,82362.78601846423,32054159.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,389.1825489343457
+Fujian,China,Subdivision,CHN,East Asia,120723.71100362448,41540086.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,344.0921891371683
+Gansu,China,Subdivision,CHN,East Asia,405597.05869863235,25019831.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,61.686421199100195
+Guangdong,China,Subdivision,CHN,East Asia,175489.85105021988,126012510.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,718.0615246173925
+Guangxi,China,Subdivision,CHN,East Asia,237306.71266493676,50126804.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,211.23213682866242
+Guizhou,China,Subdivision,CHN,East Asia,175156.79175321962,38562148.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,220.15788034260552
+Hainan,China,Subdivision,CHN,East Asia,33840.643480009334,10081232.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,297.9030823085643
+Hebei,China,Subdivision,CHN,East Asia,188969.1501687046,74610235.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,394.8275945221258
+Heilongjiang,China,Subdivision,CHN,East Asia,452258.05847752065,31850088.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,70.42458924274337
+Henan,China,Subdivision,CHN,East Asia,166147.00355725066,99365519.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,598.0578455979244
+Hubei,China,Subdivision,CHN,East Asia,185598.5026131598,57752557.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,311.1693046380487
+Hunan,China,Subdivision,CHN,East Asia,211352.32591378313,66444864.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,314.3796204405379
+Inner Mongol,China,Subdivision,CHN,East Asia,1144460.840747164,24049155.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,21.013523699333785
+Jiangsu,China,Subdivision,CHN,East Asia,100090.860186414,84748016.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,846.7108369551551
+Jiangxi,China,Subdivision,CHN,East Asia,167798.32957696842,45188635.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,269.303247022326
+Jilin,China,Subdivision,CHN,East Asia,191022.5012507497,24073453.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,126.02417433744874
+Liaoning,China,Subdivision,CHN,East Asia,146514.7683689298,42591407.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,290.69702306564216
+Ningxia,China,Subdivision,CHN,East Asia,52134.71847761594,7202654.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,138.15465414074237
+Qinghai,China,Subdivision,CHN,East Asia,714466.717412533,5923957.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,8.291438713133935
+Shaanxi,China,Subdivision,CHN,East Asia,205731.2117812092,39528999.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,192.13904714680947
+Shandong,China,Subdivision,CHN,East Asia,155914.81213379916,101527453.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,651.1725961794679
+Shanghai,China,Subdivision,CHN,East Asia,6746.1042107062485,24870895.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,3686.704833365785
+Shanxi,China,Subdivision,CHN,East Asia,156093.67119899334,34915616.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,223.6837389485729
+Sichuan,China,Subdivision,CHN,East Asia,484814.81262941327,83674866.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,172.59139741664634
+Tianjin,China,Subdivision,CHN,East Asia,11475.396049009412,13866009.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1208.3250931628588
+Xinjiang,China,Subdivision,CHN,East Asia,1630215.1727553536,25852345.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,15.858240943927015
+Yunnan,China,Subdivision,CHN,East Asia,385395.81902089604,47209277.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,122.49556084945573
+Zhejiang,China,Subdivision,CHN,East Asia,101337.31993463228,64567588.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,637.1550781257031
+Alberta,Canada,Subdivision,CAN,North America,663753.283263042,4442879.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,6.693569903200479
+British Columbia,Canada,Subdivision,CAN,North America,945611.331217518,5214805.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,5.514744618474166
+Manitoba,Canada,Subdivision,CAN,North America,652605.0656562246,1383765.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2.1203712211589414
+New Brunswick,Canada,Subdivision,CAN,North America,72782.75666288118,789225.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,10.84357114495638
+Newfoundland and Labrador,Canada,Subdivision,CAN,North America,403321.9172396544,520553.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1.2906638041460234
+Northwest Territories,Canada,Subdivision,CAN,North America,1348367.4588172946,45504.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,0.033747477145372025
+Nova Scotia,Canada,Subdivision,CAN,North America,55108.37637126056,992055.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,18.00189127904273
+Nunavut,Canada,Subdivision,CAN,North America,2079890.927047242,39403.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,0.0189447434418781
+Ontario,Canada,Subdivision,CAN,North America,1077594.7585675824,14826276.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,13.758674939833755
+Prince Edward Island,Canada,Subdivision,CAN,North America,5732.957411562023,164318.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,28.661995581653784
+Québec,Canada,Subdivision,CAN,North America,1505508.757352465,8604495.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,5.7153403844236434
+Saskatchewan,Canada,Subdivision,CAN,North America,650876.0220980694,1179844.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1.8127015897694714
+Yukon,Canada,Subdivision,CAN,North America,484475.86573686096,42986.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,0.08872681394484053
+Alabama,United States,Subdivision,USA,North America,133835.04996271894,4903185.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,36.63603070620013
+Alaska,United States,Subdivision,USA,North America,1505331.9648543028,731545.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,0.48596921946768357
+Arizona,United States,Subdivision,USA,North America,295065.6479897891,7278717.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,24.668127413638757
+Arkansas,United States,Subdivision,USA,North America,137541.8284926012,3017804.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,21.940990846739666
+California,United States,Subdivision,USA,North America,409742.72758603195,39512223.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,96.4317859472046
+Colorado,United States,Subdivision,USA,North America,269201.26505402126,5758736.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,21.391935133902066
+Connecticut,United States,Subdivision,USA,North America,12704.678865956303,3565287.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,280.6278724253008
+Delaware,United States,Subdivision,USA,North America,5171.649346118999,973764.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,188.2888677923899
+District of Columbia,United States,Subdivision,USA,North America,162.24336980402302,705749.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,4349.940468152801
+Florida,United States,Subdivision,USA,North America,146719.89176726856,21477737.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,146.38599266463896
+Georgia,United States,Subdivision,USA,North America,152164.06083276347,10617423.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,69.77615438161263
+Hawaii,United States,Subdivision,USA,North America,16848.024829764865,1415872.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,84.03786285372897
+Idaho,United States,Subdivision,USA,North America,216253.4688395157,1787065.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,8.263751835242017
+Illinois,United States,Subdivision,USA,North America,150152.8758154473,12671821.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,84.39279588340963
+Indiana,United States,Subdivision,USA,North America,94332.3676320119,6732219.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,71.36700974433516
+Iowa,United States,Subdivision,USA,North America,145449.25383752276,3155070.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,21.69189539827024
+Kansas,United States,Subdivision,USA,North America,212824.85645684644,2913314.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,13.688786396953214
+Kentucky,United States,Subdivision,USA,North America,104576.9800268137,4467673.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,42.72138092775754
+Louisiana,United States,Subdivision,USA,North America,119548.28083015628,4648794.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,38.88633084238659
+Maine,United States,Subdivision,USA,North America,84258.08013640897,1344212.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,15.953508527891904
+Maryland,United States,Subdivision,USA,North America,25462.150318288932,6045680.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,237.43791959540488
+Massachusetts,United States,Subdivision,USA,North America,21161.452332383855,6892503.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,325.710300585194
+Michigan,United States,Subdivision,USA,North America,250045.6643272045,9986857.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,39.94013264285763
+Minnesota,United States,Subdivision,USA,North America,224777.78355653936,5639632.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,25.08981052649911
+Mississippi,United States,Subdivision,USA,North America,123806.34540950073,2976149.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,24.03874365369656
+Missouri,United States,Subdivision,USA,North America,180474.7264793437,6137428.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,34.00713285304501
+Montana,United States,Subdivision,USA,North America,379494.61711240694,1068778.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2.8163192620026707
+Nebraska,United States,Subdivision,USA,North America,200968.353689809,1934408.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,9.625435868304537
+Nevada,United States,Subdivision,USA,North America,287085.6283170075,3080156.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,10.729049789280328
+New Hampshire,United States,Subdivision,USA,North America,24266.46805068044,1359711.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,56.03250531392735
+New Jersey,United States,Subdivision,USA,North America,19667.49589745659,8882190.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,451.61773752542894
+New Mexico,United States,Subdivision,USA,North America,315076.64891576435,2096829.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,6.65498064428312
+New York,United States,Subdivision,USA,North America,136933.1328508669,19453561.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,142.06613545595835
+North Carolina,United States,Subdivision,USA,North America,127661.4899722289,10488084.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,82.15542527571586
+North Dakota,United States,Subdivision,USA,North America,182745.3882437085,762062.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,4.170075137456915
+Ohio,United States,Subdivision,USA,North America,116044.30775110851,11689100.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,100.7296284197821
+Oklahoma,United States,Subdivision,USA,North America,180638.82066386173,3956971.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,21.905429771174454
+Oregon,United States,Subdivision,USA,North America,251885.2498641265,4217737.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,16.744676404335536
+Pennsylvania,United States,Subdivision,USA,North America,119356.86478227375,12801989.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,107.25808711005354
+Rhode Island,United States,Subdivision,USA,North America,2832.3615466474625,1059361.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,374.0204004866248
+South Carolina,United States,Subdivision,USA,North America,80163.73734289213,5148714.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,64.22746955991967
+South Dakota,United States,Subdivision,USA,North America,199304.95978889428,884659.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,4.438720445979063
+Tennessee,United States,Subdivision,USA,North America,109298.78613051932,6829174.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,62.481700316826306
+Texas,United States,Subdivision,USA,North America,685340.5672417289,28995881.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,42.30871830147005
+Utah,United States,Subdivision,USA,North America,219762.34354222185,3205958.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,14.58829546647993
+Vermont,United States,Subdivision,USA,North America,24636.672150226495,623989.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,25.327649619036045
+Virginia,United States,Subdivision,USA,North America,103724.75705892565,8535519.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,82.29008427709311
+Washington,United States,Subdivision,USA,North America,174112.52973814335,7614893.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,43.73546815644126
+West Virginia,United States,Subdivision,USA,North America,62735.3543803969,1792147.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,28.566778935100707
+Wisconsin,United States,Subdivision,USA,North America,169394.44799799816,5822434.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,34.37204742429815
+Wyoming,United States,Subdivision,USA,North America,253484.0627309607,578759.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2.283216521640948
+Australian Capital Territory,Australia,Subdivision,AUS,Oceania,2349.1730286408574,428100.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,182.23434152386912
+New South Wales,Australia,Subdivision,AUS,Oceania,801923.902744893,8118000.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,10.123155042782766
+Northern Territory,Australia,Subdivision,AUS,Oceania,1348471.9908127554,245600.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,0.1821320736902894
+Queensland,Australia,Subdivision,AUS,Oceania,1730150.2374691921,5115500.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2.9566796508277733
+South Australia,Australia,Subdivision,AUS,Oceania,983869.1815948983,1756500.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1.7852983230480202
+Tasmania,Australia,Subdivision,AUS,Oceania,68115.0607943201,535500.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,7.861697453621793
+Victoria,Australia,Subdivision,AUS,Oceania,227944.8740593937,6629900.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,29.08554108688797
+Western Australia,Australia,Subdivision,AUS,Oceania,2528141.3147568996,2630600.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1.0405272777455292
+Acre,Brazil,Subdivision,BRA,South America,153862.7608125791,881935.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,5.731958762096365
+Alagoas,Brazil,Subdivision,BRA,South America,27618.914977251014,3337357.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,120.83591997545504
+Amapá,Brazil,Subdivision,BRA,South America,139180.75426709853,845731.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,6.076493869094699
+Amazonas,Brazil,Subdivision,BRA,South America,1565684.5261640784,4144597.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2.647146938441199
+Bahia,Brazil,Subdivision,BRA,South America,560049.7928497222,14873064.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,26.556681548475957
+Ceará,Brazil,Subdivision,BRA,South America,150227.56128380567,9132078.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,60.78829957671972
+Distrito Federal,Brazil,Subdivision,BRA,South America,5792.22729396685,3015268.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,520.57142217825
+Espírito Santo,Brazil,Subdivision,BRA,South America,45805.98908511424,4018650.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,87.73197741746738
+Goiás,Brazil,Subdivision,BRA,South America,341247.10376126954,7018354.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,20.566779681476554
+Maranhão,Brazil,Subdivision,BRA,South America,326134.4569737421,7075181.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,21.694061601622302
+Mato Grosso,Brazil,Subdivision,BRA,South America,902951.7757523675,3484466.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,3.8589724208655936
+Mato Grosso do Sul,Brazil,Subdivision,BRA,South America,356041.5047171338,2778986.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,7.805230466621682
+Minas Gerais,Brazil,Subdivision,BRA,South America,586372.1738515878,21168791.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,36.10128847171024
+Paraná,Brazil,Subdivision,BRA,South America,198665.95547869927,11433957.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,57.553680863181086
+Paraíba,Brazil,Subdivision,BRA,South America,56515.81199122117,4018127.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,71.09739484277695
+Pará,Brazil,Subdivision,BRA,South America,1230800.084036055,8602865.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,6.9896525939366025
+Pernambuco,Brazil,Subdivision,BRA,South America,97630.22223447013,9557071.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,97.89049723811549
+Piauí,Brazil,Subdivision,BRA,South America,252011.27176066235,3273227.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,12.988415070214069
+Rio Grande do Norte,Brazil,Subdivision,BRA,South America,52811.73553102196,3506853.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,66.40291148811141
+Rio Grande do Sul,Brazil,Subdivision,BRA,South America,272283.08563042415,11377239.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,41.78459698904169
+Rio de Janeiro,Brazil,Subdivision,BRA,South America,43978.05367039708,17264943.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,392.58087975870427
+Rondônia,Brazil,Subdivision,BRA,South America,237942.46003823064,1777225.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,7.469137705453874
+Roraima,Brazil,Subdivision,BRA,South America,224746.4425566273,605761.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2.6953085134923636
+Santa Catarina,Brazil,Subdivision,BRA,South America,95097.10724975918,7164788.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,75.34180804451488
+Sergipe,Brazil,Subdivision,BRA,South America,21606.366889971538,2298696.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,106.38975130367362
+São Paulo,Brazil,Subdivision,BRA,South America,248638.31111394803,45919049.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,184.68211433014375
+Tocantins,Brazil,Subdivision,BRA,South America,278973.24090797704,1572866.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,5.638053294576846
+Andhra Pradesh,India,Subdivision,IND,South Asia,160581.12998815943,53903393.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,335.6770064077554
+Arunachal Pradesh,India,Subdivision,IND,South Asia,80591.52159283012,1570458.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,19.486640392948196
+Assam,India,Subdivision,IND,South Asia,79530.37641219667,35607039.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,447.7162136823403
+Bihar,India,Subdivision,IND,South Asia,94689.61849733182,124799926.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1317.989532332065
+Chandigarh,India,Subdivision,IND,South Asia,118.74007378998392,1158473.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,9756.377632449481
+Chhattisgarh,India,Subdivision,IND,South Asia,134510.59533251158,29436231.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,218.83949682352778
+Dadra and Nagar Haveli and Daman and Diu,India,Subdivision,IND,South Asia,574.2380545084221,615724.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1072.245204172496
+Delhi,India,Subdivision,IND,South Asia,1482.3965813666207,18710922.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,12622.07578942904
+Goa,India,Subdivision,IND,South Asia,3420.6171842697,1586250.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,463.73210287741205
+Gujarat,India,Subdivision,IND,South Asia,184427.7882292219,63872399.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,346.32741417803146
+Haryana,India,Subdivision,IND,South Asia,43945.412568030006,28204692.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,641.8119742609658
+Himachal Pradesh,India,Subdivision,IND,South Asia,55397.550010524545,7451955.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,134.51777196977596
+Jammu and Kashmir,India,Subdivision,IND,South Asia,42553.8978021889,13606320.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,319.74321278978385
+Jharkhand,India,Subdivision,IND,South Asia,77947.88769541823,38593948.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,495.1250013445656
+Karnataka,India,Subdivision,IND,South Asia,191841.23817504704,67562686.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,352.1802019352685
+Kerala,India,Subdivision,IND,South Asia,37724.11387830125,35699443.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,946.3295311632003
+Ladakh,India,Subdivision,IND,South Asia,64256.24844763137,274289.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,4.2686743566043175
+Lakshadweep,India,Subdivision,IND,South Asia,34.1178378068168,64429.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1888.425648917499
+Madhya Pradesh,India,Subdivision,IND,South Asia,309518.63369375747,85358965.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,275.77972925680297
+Maharashtra,India,Subdivision,IND,South Asia,306563.3099822296,123144223.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,401.6926324521295
+Manipur,India,Subdivision,IND,South Asia,21668.901445089916,3091545.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,142.67197660361927
+Meghalaya,India,Subdivision,IND,South Asia,23120.97506131965,3366710.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,145.61280357212766
+Mizoram,India,Subdivision,IND,South Asia,21242.48867574309,1239244.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,58.337985671853
+Nagaland,India,Subdivision,IND,South Asia,16271.566693358178,2249695.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,138.25927413113166
+Odisha,India,Subdivision,IND,South Asia,155188.0536134872,46356334.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,298.71071207230625
+Puducherry,India,Subdivision,IND,South Asia,526.3075216287617,1413542.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,2685.7719905379986
+Punjab,India,Subdivision,IND,South Asia,50378.08941849959,30141373.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,598.3032176867675
+Rajasthan,India,Subdivision,IND,South Asia,343082.5203565015,81032689.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,236.19008311993827
+Sikkim,India,Subdivision,IND,South Asia,6942.342683960251,690251.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,99.426235699193
+Tamil Nadu,India,Subdivision,IND,South Asia,130683.61161952587,77841267.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,595.646738220154
+Telangana,India,Subdivision,IND,South Asia,114817.19265504697,39362732.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,342.8295979876473
+Tripura,India,Subdivision,IND,South Asia,10745.432249937308,4169794.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,388.0527002554344
+Uttar Pradesh,India,Subdivision,IND,South Asia,240261.8163103602,237882725.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,990.0979217301553
+Uttarakhand,India,Subdivision,IND,South Asia,52639.2549002339,11250858.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,213.73513020508213
+West Bengal,India,Subdivision,IND,South Asia,86363.19762737465,99609303.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,1153.3767361159717
+Azad Kashmir,Pakistan,Subdivision,PAK,South Asia,11962.405303080921,4045366.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,338.1732935397294
+Baluchistan,Pakistan,Subdivision,PAK,South Asia,347995.7605910629,12344408.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,35.47286891953311
+Punjab,Pakistan,Subdivision,PAK,South Asia,203843.51689571116,110012442.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,539.6906591652051
+Sind,Pakistan,Subdivision,PAK,South Asia,140649.14899726823,47886051.0,,,Johns Hopkins CSSE UID lookup (population field),Natural Earth 1:10m Admin-1 polygon; geodesic area on WGS84,340.4645626468033

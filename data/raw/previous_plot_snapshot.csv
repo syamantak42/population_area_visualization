@@ -1,0 +1,251 @@
+name,area_km2,population,type
+Sweden,450295.0,9737521.0,Country
+Republic of the Congo,342000.0,4559000.0,Country
+Serbia,49037.0,7186862.0,Country
+Lithuania,65300.0,2927310.0,Country
+France,640679.0,66078000.0,Country
+Bosnia and Herzegovina,51209.0,3791622.0,Country
+Brazil,8515767.0,203586000.0,Country
+Tonga,747.0,103252.0,Country
+Tuvalu,26.0,11323.0,Country
+Mozambique,801590.0,25041922.0,Country
+Somalia,637657.0,10806000.0,Country
+Antigua and Barbuda,442.0,86295.0,Country
+Tajikistan,143100.0,8161000.0,Country
+Bolivia,1098581.0,10027254.0,Country
+Nepal,147181.0,27646053.0,Country
+Afghanistan,652230.0,26023100.0,Country
+Cambodia,181035.0,15184116.0,Country
+Thailand,513120.0,64871000.0,Country
+Chile,756102.0,17819054.0,Country
+Spain,505992.0,46507760.0,Country
+Mauritania,1030700.0,3545620.0,Country
+Belgium,30528.0,11225469.0,Country
+Nigeria,923768.0,178517000.0,Country
+Vietnam,331212.0,89708900.0,Country
+Panama,75417.0,3713312.0,Country
+Venezuela,916445.0,30206307.0,Country
+Luxembourg,2586.0,549700.0,Country
+Iraq,438317.0,36004552.0,Country
+Swaziland,17364.0,1106189.0,Country
+Malawi,118484.0,15805239.0,Country
+Ecuador,276841.0,15888900.0,Country
+Rwanda,26338.0,10996891.0,Country
+Mongolia,1564110.0,2987733.0,Country
+The Gambia,11295.0,1882450.0,Country
+Poland,312679.0,38496000.0,Country
+Guyana,214969.0,784894.0,Country
+Kenya,580367.0,41800000.0,Country
+Malaysia,330803.0,30430500.0,Country
+Bahrain,765.0,1316500.0,Country
+Papua New Guinea,462840.0,7398500.0,Country
+Australia,7692024.0,23696900.0,Country
+Chad,1284000.0,13211000.0,Country
+Tanzania,945087.0,47421786.0,Country
+Belarus,207600.0,9475100.0,Country
+Bhutan,38394.0,755030.0,Country
+Syria,185180.0,22964324.0,Country
+South Sudan,619745.0,11384393.0,Country
+Mexico,1964375.0,119713203.0,Country
+Mauritius,2040.0,1261208.0,Country
+Canada,9984670.0,35540419.0,Country
+Laos,236800.0,6693300.0,Country
+Kazakhstan,2724900.0,17377800.0,Country
+Ethiopia,1104300.0,87952991.0,Country
+Germany,357114.0,80783000.0,Country
+San Marino,61.0,32743.0,Country
+Honduras,112492.0,8725111.0,Country
+Qatar,11586.0,2269672.0,Country
+Central African Republic,622984.0,4709000.0,Country
+Republic of Macedonia,25713.0,2058539.0,Country
+Gabon,267668.0,1711000.0,Country
+Trinidad and Tobago,5130.0,1328019.0,Country
+Djibouti,23200.0,886000.0,Country
+Cameroon,475442.0,20386799.0,Country
+Indonesia,1904569.0,252164800.0,Country
+Federated States of Micronesia,702.0,101351.0,Country
+Austria,83871.0,8527230.0,Country
+Vanuatu,12189.0,264652.0,Country
+Tunisia,163610.0,10982754.0,Country
+Democratic Republic of the Congo,2344858.0,69360000.0,Country
+French Southern and Antarctic Lands,7747.0,140.0,Country
+Ivory Coast,322463.0,23821000.0,Country
+Monaco,2.02,36950.0,Country
+Italy,301336.0,60769102.0,Country
+United Kingdom,242900.0,64105654.0,Country
+Uruguay,181034.0,3404189.0,Country
+Botswana,582000.0,2024904.0,Country
+Kyrgyzstan,199951.0,5776570.0,Country
+Finland,338424.0,5470437.0,Country
+Liechtenstein,160.0,37132.0,Country
+Japan,377930.0,127080000.0,Country
+Jordan,89342.0,6666960.0,Country
+Sudan,1886068.0,37289406.0,Country
+Barbados,430.0,285000.0,Country
+Grenada,344.0,103328.0,Country
+Equatorial Guinea,28051.0,1430000.0,Country
+São Tomé and Príncipe,964.0,187356.0,Country
+Israel,20770.0,8268400.0,Country
+Saint Kitts and Nevis,261.0,55000.0,Country
+New Zealand,270467.0,4547900.0,Country
+Georgia,69700.0,4490500.0,Country
+Yemen,527968.0,25956000.0,Country
+Uzbekistan,447400.0,30492800.0,Country
+Togo,56785.0,6993000.0,Country
+Singapore,710.0,5469700.0,Country
+Philippines,342353.0,100697400.0,Country
+Jamaica,10991.0,2717991.0,Country
+Maldives,300.0,341256.0,Country
+Taiwan,36193.0,23424615.0,Country
+Armenia,29743.0,3009800.0,Country
+Eritrea,117600.0,6536000.0,Country
+Croatia,56594.0,4267558.0,Country
+Azerbaijan,86600.0,9552500.0,Country
+Samoa,2842.0,187820.0,Country
+Morocco,446550.0,33465000.0,Country
+Lesotho,30355.0,2098000.0,Country
+Hungary,93028.0,9879000.0,Country
+Slovenia,20273.0,2064966.0,Country
+Czech Republic,78865.0,10521600.0,Country
+Cape Verde,4033.0,518467.0,Country
+Turkey,783562.0,76667864.0,Country
+Ireland,70273.0,6378000.0,Country
+South Korea,100210.0,50423955.0,Country
+Ukraine,603700.0,42973696.0,Country
+Guinea,245857.0,10628972.0,Country
+Madagascar,587041.0,21842167.0,Country
+United Arab Emirates,83600.0,9446000.0,Country
+Netherlands,41850.0,16881000.0,Country
+The Bahamas,13943.0,319031.0,Country
+Switzerland,41284.0,8183800.0,Country
+Uganda,241550.0,34856813.0,Country
+Slovakia,49037.0,5415949.0,Country
+Portugal,92090.0,10477800.0,Country
+Pitcairn Islands,47.0,56.0,Country
+Zambia,752612.0,15023315.0,Country
+Saint Lucia,616.0,184000.0,Country
+Liberia,111369.0,4397000.0,Country
+Kiribati,811.0,106461.0,Country
+Dominican Republic,48671.0,10378267.0,Country
+Norway,323802.0,5156450.0,Country
+Zimbabwe,390757.0,13061239.0,Country
+Algeria,2381741.0,38700000.0,Country
+Palau,459.0,20901.0,Country
+Solomon Islands,28896.0,581344.0,Country
+Burundi,27834.0,9530434.0,Country
+Bulgaria,110879.0,7245677.0,Country
+Haiti,27750.0,10745665.0,Country
+Bangladesh,147570.0,157486000.0,Country
+Burkina Faso,272967.0,17322796.0,Country
+Russia,17124442.0,146233000.0,Country
+Mali,1240192.0,15768000.0,Country
+Saudi Arabia,2149690.0,30770375.0,Country
+Lebanon,10452.0,4104000.0,Country
+Paraguay,406752.0,6893727.0,Country
+Ghana,238533.0,27043093.0,Country
+Nicaragua,130373.0,6134270.0,Country
+Denmark,43094.0,5655750.0,Country
+Seychelles,452.0,89949.0,Country
+Cyprus,9251.0,858000.0,Country
+Cuba,109884.0,11210064.0,Country
+Marshall Islands,181.0,56086.0,Country
+Turkmenistan,488100.0,5838064.0,Country
+Albania,28748.0,2895947.0,Country
+Dominica,751.0,71293.0,Country
+Argentina,2780400.0,42669500.0,Country
+Costa Rica,51100.0,4713168.0,Country
+El Salvador,21041.0,6401240.0,Country
+Egypt,1002450.0,87668100.0,Country
+East Timor,14874.0,1172390.0,Country
+North Korea,120538.0,25027000.0,Country
+Moldova,33846.0,3557600.0,Country
+Nauru,21.0,10084.0,Country
+Iceland,103000.0,328170.0,Country
+Sri Lanka,65610.0,20277597.0,Country
+Guatemala,108889.0,15806675.0,Country
+Niger,1267000.0,17138707.0,Country
+Malta,316.0,416055.0,Country
+Colombia,1141748.0,47907800.0,Country
+Namibia,825615.0,2113077.0,Country
+Senegal,196722.0,13508715.0,Country
+Libya,1759540.0,6253000.0,Country
+Estonia,45227.0,1315819.0,Country
+Comoros,1862.0,763952.0,Country
+Belize,22966.0,349728.0,Country
+Guinea-Bissau,36125.0,1746000.0,Country
+Suriname,163820.0,534189.0,Country
+Benin,112622.0,9988068.0,Country
+Saint Vincent and the Grenadines,389.0,109000.0,Country
+Pakistan,881912.0,188410000.0,Country
+South Africa,1221037.0,54002000.0,Country
+Sierra Leone,71740.0,6205000.0,Country
+Brunei,5765.0,393372.0,Country
+Iran,1648195.0,77966400.0,Country
+Fiji,18272.0,859178.0,Country
+Peru,1285216.0,30814175.0,Country
+Kuwait,17818.0,3268431.0,Country
+Romania,238391.0,19942642.0,Country
+United States,9629091.0,319259000.0,Country
+Oman,309500.0,4089076.0,Country
+Greece,131990.0,10992589.0,Country
+Angola,1246700.0,24383301.0,Country
+Latvia,64559.0,1991800.0,Country
+Andhra Pradesh,162968.0,49386799.0,India state
+Arunachal Pradesh,83743.0,1383727.0,India state
+Assam,78438.0,31205576.0,India state
+Bihar,94163.0,104099452.0,India state
+Chhattisgarh,135192.0,25545198.0,India state
+Goa,3702.0,1458545.0,India state
+Gujarat,196024.0,60439692.0,India state
+Haryana,44212.0,25351462.0,India state
+Himachal Pradesh,55673.0,6864602.0,India state
+Jharkhand,79716.0,32988134.0,India state
+Karnataka,191791.0,61095297.0,India state
+Kerala,38852.0,33406061.0,India state
+Madhya Pradesh,308245.0,72626809.0,India state
+Maharashtra,307713.0,112374333.0,India state
+Manipur,22327.0,2855794.0,India state
+Meghalaya,22429.0,2966889.0,India state
+Mizoram,21081.0,1097206.0,India state
+Nagaland,16579.0,1978502.0,India state
+Odisha,155707.0,41974218.0,India state
+Punjab,50362.0,27743338.0,India state
+Rajasthan,342239.0,68548437.0,India state
+Sikkim,7096.0,610577.0,India state
+Tamil Nadu,130058.0,72147030.0,India state
+Telangana,112077.0,35193978.0,India state
+Tripura,10486.0,3673917.0,India state
+Uttar Pradesh,240928.0,199812341.0,India state
+Uttarakhand,53483.0,10086292.0,India state
+West Bengal,88752.0,91276115.0,India state
+Beijing,16410.5,21893095.0,China province-level
+Tianjin,11966.5,13866009.0,China province-level
+Hebei,188800.0,74610235.0,China province-level
+Shanxi,156700.0,34915616.0,China province-level
+Inner Mongolia,1183000.0,24049155.0,China province-level
+Liaoning,148000.0,42591407.0,China province-level
+Jilin,187400.0,24073453.0,China province-level
+Heilongjiang,473000.0,31850088.0,China province-level
+Shanghai,6340.5,24870895.0,China province-level
+Jiangsu,102600.0,84748016.0,China province-level
+Zhejiang,105500.0,64567588.0,China province-level
+Anhui,140100.0,61027171.0,China province-level
+Fujian,121400.0,41540086.0,China province-level
+Jiangxi,166900.0,45188635.0,China province-level
+Shandong,157100.0,101527453.0,China province-level
+Henan,167000.0,99365519.0,China province-level
+Hubei,185900.0,57752557.0,China province-level
+Hunan,211800.0,66444864.0,China province-level
+Guangdong,179700.0,126012510.0,China province-level
+Guangxi,237600.0,50126804.0,China province-level
+Hainan,35400.0,10081232.0,China province-level
+Chongqing,82400.0,32054159.0,China province-level
+Sichuan,486000.0,83674866.0,China province-level
+Guizhou,176200.0,38562148.0,China province-level
+Yunnan,394100.0,47209277.0,China province-level
+Tibet,1228400.0,3648100.0,China province-level
+Shaanxi,205800.0,39528999.0,China province-level
+Gansu,425800.0,25019831.0,China province-level
+Qinghai,722300.0,5923957.0,China province-level
+Ningxia,66400.0,7202654.0,China province-level
+Xinjiang,1664900.0,25852345.0,China province-level

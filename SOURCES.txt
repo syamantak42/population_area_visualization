@@ -1,0 +1,21 @@
+World Bank Indicators API:
+https://api.worldbank.org/v2/country/all/indicator/SP.POP.TOTL
+https://api.worldbank.org/v2/country/all/indicator/AG.SRF.TOTL.K2
+
+UN M49 methodology:
+https://unstats.un.org/unsd/methodology/m49/
+
+ISO regional-code CSV used by the script:
+https://raw.githubusercontent.com/lukes/iso-3166-countries-with-regional-codes/master/all/all.csv
+
+Johns Hopkins CSSE UID / population lookup:
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv
+
+Natural Earth Admin-1 geometry:
+https://raw.githubusercontent.com/nvkelso/natural-earth-vector/master/geojson/ne_10m_admin_1_states_provinces.geojson
+
+Indonesia fallback population table:
+https://en.wikipedia.org/wiki/Provinces_of_Indonesia
+
+Wikidata Query Service (on-demand subdivision populations):
+https://query.wikidata.org/sparql

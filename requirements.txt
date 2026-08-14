@@ -1,0 +1,11 @@
+pandas
+numpy
+plotly
+requests
+geopandas
+pyogrio
+shapely
+pyproj
+rapidfuzz
+lxml
+streamlit
